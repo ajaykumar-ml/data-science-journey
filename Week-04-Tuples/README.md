@@ -1,28 +1,27 @@
 # 📘 Week-04: Python Tuples
 
-This folder contains my learning of **Python Tuples**, focusing on immutability, safe data storage, and comparison with lists.  
-Notebook numbering continues from the previous week for consistency.
+This folder covers my learning of **Python Tuples**, focusing on immutability, safe data storage, and real-life use cases.
+
+All core tuple concepts are intentionally covered in a **single notebook** for clarity and completeness.
 
 ---
 
-## 📂 Notebooks Overview
+## 📂 Notebook
 
-- **`27_Tuple_Basics.ipynb`**  
-  Introduction to tuples, their properties, and immutability.
-
-- **`28_Tuple_Creation_and_Access.ipynb`**  
-  Creating tuples, indexing, slicing, and unpacking.
-
-- **`29_Tuple_Operations_and_Methods.ipynb`**  
-  Tuple operations, built-in methods, and common use cases.
-
-- **`30_Tuple_vs_List.ipynb`**  
-  Comparison between tuples and lists in terms of mutability, performance, and safety.
+- **`27_Tuples.ipynb`**  
+  Covers:
+  - What tuples are and why they are used  
+  - Tuple creation (all methods, including single-element tuples)  
+  - Indexing, slicing, and accessing elements  
+  - Immutability and its importance  
+  - Tuple operations and built-in methods  
+  - Packing and unpacking  
+ 
 
 ---
 
 ## 🎯 Outcome
-After completing this section, I will understand when to use tuples instead of lists and how immutability helps in writing safer and more predictable code.
+After completing this notebook, I understand when and why to use tuples, and how immutability helps in writing safer and more predictable Python code.
 
 ---
 
